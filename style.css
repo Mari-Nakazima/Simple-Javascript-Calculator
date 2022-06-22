@@ -30,27 +30,27 @@
 .botao{
     width: 50px;
     height: 50px;
-    background-color: bisque;
+    background-color: rgb(251, 227, 197);
     border-radius: 5px;
     font-family: 'Anek Latin', 'Courier New', Courier, monospace;
     font-size: 25px;
     color: rgb(40, 2, 77);
     margin: 2px;
     cursor: pointer;
-    border: 0.8px solid bisque;
+    border: 0.8px solid rgb(251, 227, 197);
 }
 
 .botao:active{
-    border: 2px solid rgba(86, 6, 117, 0.8);
+    border: 2px solid rgba(59, 4, 103, 0.811);
 }
 
 #screen{
-    background-color: bisque;
+    background-color: rgb(251, 227, 197);
     width: 215px;
     height: 45px;
     margin: 5px;
     border-radius: 5px;
-    border: 0.8px solid bisque;
+    border: 0.8px solid rgb(251, 227, 197);
     font-family: 'Anek Latin', 'Courier New', Courier, monospace;
     font-size: 30px;
     text-align: right;
