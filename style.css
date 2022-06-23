@@ -70,6 +70,7 @@
 
 .copy a{      
     text-decoration: none;
+    cursor:default;
 }
 
 .copy a:hover{
